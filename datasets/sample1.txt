@@ -1,0 +1,5 @@
+Cryptography is the science of protecting information.
+
+It uses mathematics and algorithms.
+
+This is sample file one.
