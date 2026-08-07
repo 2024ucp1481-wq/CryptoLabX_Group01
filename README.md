@@ -2,11 +2,9 @@
 
 ## Team Members
 
-Member 1
+Priya
 
-Member 2
-
-Member 3
+Lakshay Kumar
 
 ## Project
 
