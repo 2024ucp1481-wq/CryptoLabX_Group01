@@ -1,4 +1,0 @@
-Patient ID: 101
-Name: Priya
-Age: 19
-Disease: Fever
