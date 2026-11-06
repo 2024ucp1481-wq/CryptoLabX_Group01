@@ -1,0 +1,11 @@
+The attack works by tabulating the frequency distribution of characters in the
+ciphertext, i.e., recording that A appeared 11 times, B appeared 4 times, and
+so on. These frequencies are then compared to the known letter frequencies
+of normal English text. One can then guess parts of the mapping defined by
+the key based on the observed frequencies. For example, since e is the most
+frequent letter in English, one can guess that the most frequent character in
+the ciphertext corresponds to the plaintext character e, and so on. Some of
+the guesses may be wrong, but enough of the guesses will be correct to enable
+relatively quick decryption (especially utilizing other knowledge of English,
+such as the fact that u generally follows q, and that h is likely to appear between t and e). We conclude that although the mono-alphabetic substitution
+cipher has a large key space, it is still insecure.
