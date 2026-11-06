@@ -1,0 +1,24 @@
+ASSIGNMENT 10: MT19937
+
+PART A: STREAM CIPHER
+Test Message: Hello Cryptography Lab
+Test Ciphertext: aa8071edcb89bd0c1c52696e11035afe0122d73ab110
+Decrypted Message: Hello Cryptography Lab
+Encryption Verified: True
+
+Plaintext: t47nxtwibBGgHRfutAAAAAAAAAAAAAA
+Ciphertext: 44df2857a18abb3cd7809f20d8251bd81d835e1cce9c9d780c795b511967d7
+Actual Seed: 4367
+Recovered Seed: 4367
+Candidates Tested: 4368
+Recovered Plaintext: t47nxtwibBGgHRfutAAAAAAAAAAAAAA
+Complete Plaintext Verified: True
+
+PART B: TIMESTAMP TOKEN ATTACK
+Generation Timestamp: 1793940853
+Generated Token: c6e353ae0767f7d3dea2a21650fec9c3
+Search Interval: 1793940553 to 1793941153
+Candidates Tested: 301
+Recovered Timestamp: 1793940853
+Regenerated Token: c6e353ae0767f7d3dea2a21650fec9c3
+Token Verified: True
